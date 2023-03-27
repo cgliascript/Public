@@ -1,3 +1,40 @@
+<!--
+author:   Ali Turan
+
+email:    aturan@uni-koblenz.de
+
+version:  1.0.1
+
+language: de
+
+narrator: Deutsch Male
+
+logo:  https://katzenwiewir.de/wp-content/uploads/2020/03/lustige-katzen-gifs.jp
+
+comment:  Lia-Script Kurs zum Erstellen eines GIFs.
+
+link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+
+import:   https://raw.githubusercontent.com/liaTemplates/WebDev/master/README.md
+          https://raw.githubusercontent.com/liaScript/rextester_template/master/README.md
+          https://github.com/LiaTemplates/KekuleJS
+          https://github.com/LiaTemplates/VTK
+          https://github.com/LiaTemplates/Algebrite
+          https://github.com/LiaTemplates/ProcessingJS
+          https://github.com/LiaTemplates/mec2/blob/main/README.md
+
+script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
+          https://cdn.rawgit.com/davidedc/Algebrite/master/dist/algebrite.bundle-for-browser.js
+
+
+translation: Deutsch  translations/German.md
+
+translation: Français translations/French.md
+
+
+-->
+g
+
 # Abschlussprojekt
 
 Nun wisst ihr einiges über Pixel-, Vektorgrafiken und Filter. 

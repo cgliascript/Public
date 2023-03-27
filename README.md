@@ -3,7 +3,7 @@ author:   Florian Schroers
 
 email:    fschroers@uni-koblenz.de
 
-version:  1.0.0
+version:  1.0.1
 
 language: de
 
@@ -37,9 +37,11 @@ translation: Français translations/French.md
 Computervisualistik
 -------------------
 
-[preview-lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/cgliascript/Public/main/Vektor_03.md) 
+[preview-lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/cgliascript/Public/main/Pixelgrafik_AB-1.md) [preview-lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/cgliascript/Public/main/Vektor_03.md) 
 
 [preview-lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/cgliascript/Public/main/Filter.md) [preview-lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/cgliascript/Public/main/RGB_Filter.md)
+
+[preview-lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/cgliascript/Public/main/Abschlussprojekt_GIF.md)
 
 --------------------------------------
 
