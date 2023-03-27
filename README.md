@@ -37,11 +37,13 @@ translation: Français translations/French.md
 Computervisualistik
 -------------------
 
-[preview-lia](./Filter/README.md)
+[preview-lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/cgliascript/Public/main/Vektor_03.md) 
+
+[preview-lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/cgliascript/Public/main/Filter.md) [preview-lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/cgliascript/Public/main/RGB_Filter.md)
 
 --------------------------------------
 
 LiaScript
 ---------
 
-[preview-lia](./Basic/README.md)
+[preview-lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/cgliascript/Public/main/liascript-basics.md)
