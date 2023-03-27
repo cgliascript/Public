@@ -9,7 +9,7 @@ language: de
 
 narrator: Deutsch Male
 
-logo:  https://katzenwiewir.de/wp-content/uploads/2020/03/lustige-katzen-gifs.jp
+logo:  https://static.giga.de/wp-content/uploads/2013/08/gif-erstellen.png
 
 comment:  Lia-Script Kurs zum Erstellen eines GIFs.
 
@@ -33,7 +33,6 @@ translation: Français translations/French.md
 
 
 -->
-g
 
 # Abschlussprojekt
 
